@@ -5,9 +5,12 @@ Hello, I am a computer engineering student at Istanbul Technical University. Thi
 ## ITU Computer Engineering BLG 222E Computer Organization CPU project specs:
 - Control logic and ALU
 - 16 bit instructions
+- Von Neumann Architecture
 - 8 bit adressing (256 adresses)
 - 8 bit word size (256 byte memory)
 - 8 bit logic and integer operations using ALU
+- 16 different types of instructions, excluding register selections
+- Average 4 clocks per instruction
 - Two bus systems
 - A register file system consisting  of 4 data registers
 - A register file system consisting of an adress register, a stack pointer and an instruction register.
